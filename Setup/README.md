@@ -19,7 +19,7 @@ Follow this instructions to setup your environment:
 ### Install Java 
 - https://www.ohdsi.org/web/wiki/doku.php?id=documentation:r_setup
 
-After this steps open RStudio. Open the project: `Setup.Rproj`
+After this steps open RStudio. Download the Setup folder locally in your laptop. Open the project: `Setup.Rproj`
 
 You can open the project double clicking to the file, to check that you have opened correctly the project you must see the following:
 ![setup](https://user-images.githubusercontent.com/18575244/235122166-a860c2c8-1441-4c7e-b6d2-de47db32e5b1.png)
