@@ -33,6 +33,12 @@ The following packages should be easily installed from the command line just typ
 - PatientProfiles
 - here
 - usethis
+- SqlRender
+- remotes
+
+Install other packages from github. To install them type: `remotes::install_github("PackageName")`
+
+- OHDSI/CirceR
 
 ### Download Eunomia
 For the practicals we will work with a mock simple database. To download it run the following command:
