@@ -4,8 +4,8 @@
 ## Issues
 
 if you have any issue setting your environment please contact: 
-- [Edward Burn](mailto:edward.burn@ndorms.ox.ac.uk): edward.burn@ndorms.ox.ac.uk
-- [Marti Catala](mailto:marti.catalasabate@ndorms.ox.ac.uk): marti.catalasabate@ndorms.ox.ac.uk
+- Edward Burn: edward.burn@ndorms.ox.ac.uk
+- Marti Catala: marti.catalasabate@ndorms.ox.ac.uk
 
 ## Setup your laptop
 
