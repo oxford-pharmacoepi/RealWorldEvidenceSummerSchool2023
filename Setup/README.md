@@ -21,7 +21,8 @@ Follow this instructions to setup your environment:
 
 After this steps open RStudio. Open the project: `Setup.Rproj`
 
-You can open the project double clicking to the file, to check that you have opened correctly the project you must see the following 
+You can open the project double clicking to the file, to check that you have opened correctly the project you must see the following:
+![setup](https://user-images.githubusercontent.com/18575244/235122166-a860c2c8-1441-4c7e-b6d2-de47db32e5b1.png)
 
 The following packages should be easily installed from the command line just typing: `install.packages("PackageName")`
 
