@@ -19,7 +19,7 @@ Follow this instructions to setup your environment:
 ### Install Java 
 - https://www.ohdsi.org/web/wiki/doku.php?id=documentation:r_setup
 
-After this steps open RStudio. Open the project: `RealWorldEvidendeSummerSchool2023.Rproj`
+After this steps open RStudio. Open the project: `Setup.Rproj`
 
 You can open the project double clicking to the file, to check that you have opened correctly the project you must see the following 
 
