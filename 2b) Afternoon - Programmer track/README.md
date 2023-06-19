@@ -1,6 +1,10 @@
 Oxford Real World Evidence Summer School 2023: Programmer track
 ========================================================================================================================================================
 
+
+## Setup your environment
+See the folder 00_Setup. If you are able to open the R project and run the script then you're environment should be ready.
+
 Practical:  
 Overall practical: https://dpa-pde-oxford.quarto.pub/omop-cdm-programming-practical/
 
