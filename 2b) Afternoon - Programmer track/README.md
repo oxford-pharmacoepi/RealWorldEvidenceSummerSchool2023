@@ -9,6 +9,9 @@ See the folder 00_Setup. If you are able to open the R project and run the scrip
 
 For instructions see: https://ohdsi.github.io/Hades/rSetup.html
 
+## Synthea
+https://drive.google.com/drive/folders/1SROTshSBoTYq7MsRtZjYhYwQhmiOHPy5?usp=drive_link 
+
 ## Overall practical
 Overall practical: https://dpa-pde-oxford.quarto.pub/omop-cdm-programming-practical/
 
