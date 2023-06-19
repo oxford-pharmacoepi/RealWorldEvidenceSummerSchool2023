@@ -1,8 +1,8 @@
 Oxford Real World Evidence Summer School 2023: Programmer track
 ========================================================================================================================================================
 
-Practical:
-https://dpa-pde-oxford.quarto.pub/omop-cdm-programming-practical/
+Practical:  
+Overall practical: https://dpa-pde-oxford.quarto.pub/omop-cdm-programming-practical/
 
 Day 1:  
 - CDMConnector: https://dpa-pde-oxford.quarto.pub/cdmconnector-5079/ 
