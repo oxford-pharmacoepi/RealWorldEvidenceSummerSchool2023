@@ -23,3 +23,4 @@ Overall practical: https://dpa-pde-oxford.quarto.pub/omop-cdm-programming-practi
 
 ## Day 2: 
 - Bespoke code https://dpa-pde-oxford.quarto.pub/bespoke-code/
+- PatientProfiles https://dpa-pde-oxford.quarto.pub/patientprofiles/
