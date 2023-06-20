@@ -20,3 +20,6 @@ Overall practical: https://dpa-pde-oxford.quarto.pub/omop-cdm-programming-practi
 - CodelistGenerator: https://dpa-pde-oxford.quarto.pub/codelistgenerator/  
 - Capr: https://dpa-pde-oxford.quarto.pub/capr/  
 - DrugUtilisation cohorts: https://dpa-pde-oxford.quarto.pub/drugutilisation_day1/  
+
+## Day 2: 
+- Bespoke code https://dpa-pde-oxford.quarto.pub/bespoke-code/
