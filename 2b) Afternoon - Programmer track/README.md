@@ -27,3 +27,4 @@ Overall practical: https://dpa-pde-oxford.quarto.pub/omop-cdm-programming-practi
 
 ## Day 3: 
 - IncidencePrevalence https://dpa-pde-oxford.quarto.pub/incidenceprevalence/#/
+- DrugUtilisation https://dpa-pde-oxford.quarto.pub/drugutilisation/#/
